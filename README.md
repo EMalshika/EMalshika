@@ -1,5 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm D L Eranda Malshika</h1>
+<h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 <!--
 **EMalshika/EMalshika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
