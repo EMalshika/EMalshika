@@ -1,10 +1,10 @@
-# KD Jayakody
+# D L Eranda Malshika
 
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I'm+a+Web+Designer.;I'm+a+web+Developer.;I'm+a+Graphic+Designer.)](https://git.io/typing-svg)
 
-  [![GitHub followers](https://img.shields.io/github/followers/kdjayakody?label=Follow&style=social)](https://github.com/kdjayakody)
+  [![GitHub followers](https://img.shields.io/github/followers/EMalshika?label=Follow&style=social)](https://github.com/EMalshika)
   [![Twitter Follow](https://img.shields.io/twitter/follow/kdjayakody?style=social)](https://twitter.com/kdjayakody)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kdjayakody/)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kdj@kdj.lk)
