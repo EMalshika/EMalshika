@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=MBA+%26+IT+Specialist;Full+Stack+Developer;AI+Enthusiast;Cloud+Architect)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Web+Designer.;I'm+a+web+Developer.;I'm+a+Graphic+Designer.)](https://git.io/typing-svg)
 
   [![GitHub followers](https://img.shields.io/github/followers/kdjayakody?label=Follow&style=social)](https://github.com/kdjayakody)
   [![Twitter Follow](https://img.shields.io/twitter/follow/kdjayakody?style=social)](https://twitter.com/kdjayakody)
